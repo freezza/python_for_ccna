@@ -26,9 +26,15 @@
 """
 
 ip = "192.168.3.1"
+
 template= """
 {:<10}{:<10}{:<10}{:<10}
-{:<10}{:<10}{:<10}{:<10}
+{:0>8b}  {:0>8b}  {:0>8b}  {:0>8b}
 """
-ip_l=ip.split('.')
-print()
+
+ip0=int(ip.split('.')[0])
+ip1=int(ip.split('.')[1])
+ip2=int(ip.split('.')[2])
+ip3=int(ip.split('.')[3])
+
+print(template.format(ip0,ip1,ip2,ip3,ip0,ip1,ip2,ip3))
