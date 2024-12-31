@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbf36663-dfad-4893-8e9e-566f514dd2ea" name="Changes" comment="подготовка окружения" />
+    <list default="true" id="cbf36663-dfad-4893-8e9e-566f514dd2ea" name="Changes" comment="подготовка окружения">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_for_ccna.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_for_ccna.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/04_data_structures/task_4_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/04_data_structures/task_4_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/04_data_structures/task_4_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/04_data_structures/task_4_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/04_data_structures/task_4_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/04_data_structures/task_4_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/04_data_structures/task_4_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/04_data_structures/task_4_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/04_data_structures/task_4_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/04_data_structures/task_4_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/04_data_structures/task_4_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/04_data_structures/task_4_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/04_data_structures/task_4_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/04_data_structures/task_4_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/04_data_structures/task_4_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/04_data_structures/task_4_8.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +40,9 @@
     &quot;accountId&quot;: &quot;f7e69691-ddb3-4d00-a312-6bbf445bf9c5&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 3
@@ -39,13 +54,44 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.task_4_1.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/freezza/Documents/Xcodetraning/python_for_ccna",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="task_4_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_for_ccna" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercises/04_data_structures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercises/04_data_structures/task_4_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.task_4_1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -78,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735490184982</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="подготовка окружения">
+      <option name="closed" value="true" />
+      <created>1735490365761</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735490365761</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
