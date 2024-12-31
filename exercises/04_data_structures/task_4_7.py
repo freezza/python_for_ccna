@@ -14,5 +14,8 @@
 Это не значит, что задание сделано правильно, просто на данном этапе сложно иначе
 проверять результат.
 """
+from pycparser.ply.yacc import resultlimit
 
 mac = "AAAA:BBBB:CCCC"
+result = bin(int(mac.replace(':',''),16))
+print(result[2:])
