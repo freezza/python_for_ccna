@@ -4,18 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbf36663-dfad-4893-8e9e-566f514dd2ea" name="Changes" comment="подготовка окружения">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_for_ccna.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_for_ccna.iml" afterDir="false" />
+    <list default="true" id="cbf36663-dfad-4893-8e9e-566f514dd2ea" name="Changes" comment="зваешрение тестов главы 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/04_data_structures/task_4_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/04_data_structures/task_4_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/04_data_structures/task_4_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/04_data_structures/task_4_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/04_data_structures/task_4_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/04_data_structures/task_4_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/04_data_structures/task_4_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/04_data_structures/task_4_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/04_data_structures/task_4_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/04_data_structures/task_4_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/04_data_structures/task_4_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/04_data_structures/task_4_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/04_data_structures/task_4_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/04_data_structures/task_4_7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/04_data_structures/task_4_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/04_data_structures/task_4_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/05_basic_scripts/task_5_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/05_basic_scripts/task_5_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/05_basic_scripts/task_5_1a.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/05_basic_scripts/task_5_1a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/05_basic_scripts/task_5_1b.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/05_basic_scripts/task_5_1b.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/05_basic_scripts/task_5_1c.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/05_basic_scripts/task_5_1c.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/05_basic_scripts/task_5_1d.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/05_basic_scripts/task_5_1d.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/05_basic_scripts/task_5_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/05_basic_scripts/task_5_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/05_basic_scripts/task_5_2a.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/05_basic_scripts/task_5_2a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/05_basic_scripts/task_5_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/05_basic_scripts/task_5_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/05_basic_scripts/task_5_3a.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/05_basic_scripts/task_5_3a.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/freezza/Documents/Xcodetraning/python_for_ccna",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="RunManager">
@@ -132,7 +131,39 @@
       <option name="project" value="LOCAL" />
       <updated>1735490365761</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="зваешрение тестов главы 4">
+      <option name="closed" value="true" />
+      <created>1735656877101</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735656877101</updated>
+    </task>
+    <task id="LOCAL-00005" summary="зваешрение тестов главы 4">
+      <option name="closed" value="true" />
+      <created>1735656886104</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735656886104</updated>
+    </task>
+    <task id="LOCAL-00006" summary="зваешрение тестов главы 4">
+      <option name="closed" value="true" />
+      <created>1735656924752</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1735656924752</updated>
+    </task>
+    <task id="LOCAL-00007" summary="зваешрение тестов главы 4">
+      <option name="closed" value="true" />
+      <created>1735656980098</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735656980098</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,6 +180,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
     <MESSAGE value="подготовка окружения" />
-    <option name="LAST_COMMIT_MESSAGE" value="подготовка окружения" />
+    <MESSAGE value="зваешрение тестов главы 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="зваешрение тестов главы 4" />
   </component>
 </project>

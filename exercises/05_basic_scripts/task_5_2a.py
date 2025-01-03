@@ -49,3 +49,22 @@ bin_ip = "00001010000000010000000111000011"
 Ограничение: Все задания надо выполнять используя только пройденные темы.
 
 """
+template = '''
+Network:
+{0:<9} {1:<9} {2:<9} {3:<9}
+{0:08b}  {1:08b}  {2:08b}  {3:08b}
+
+Mask:
+{4:<}
+{5:<9} {6:<9} {7:<9} {8:<9}
+{5:08b}  {6:08b}  {7:08b}  {8:08b}
+'''
+
+network = input('Введите IP-сети в формате: 10.1.1.0/24: ')
+ipadd = network.split('/')[0].split('.')
+ipmas = network.split('/')[1]
+bmask = "1" * int(ipmas) + "0" * (32-int(ipmas))
+bmout = f'{int(bmask[0:8], 2)}.{int(bmask[8:16], 2)}.{int(bmask[16:24], 2)}.{int(bmask[24:32], 2)}'.split('.')
+net = int(ipadd[3]) & int(bmout[3])
+
+print(template.format(int(ipadd[0]),int(ipadd[1]),int(ipadd[2]),int(net),'/'+ipmas,int(bmout[0]),int(bmout[1]),int(bmout[2]),int(bmout[3])))
