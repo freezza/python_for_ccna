@@ -81,9 +81,11 @@ trunk = {
 #         else:
 #             print(f" {command}")
 
-for intf, vlan in trunk.items():
-    print("interface FastEthernet" + intf)
+
+for intf, vlan in trunk.items(): # разворачиавем словарь на ключ и занчение
+    print("interface FastEthernet" + intf) # выводим название интрефейса
     for command in trunk_template:
+        # передираем значения параметров и фильтруем по коммандам подставляя значения через ","
         if command.endswith("allowed vlan"):
             if vlan[0] == "only":
                 print(f" {command}",','.join(str(num) for num in vlan[1:]))
