@@ -1,0 +1,19 @@
+from pprint import pprint
+
+with open('config_sw1.txt','r') as f:
+    output = f.read()
+
+cfg_section = output.split('!\n')
+
+for section in cfg_section:
+    if section.startswith('interface'):
+        print('='*50)
+        pprint(section)
+        section_lines = section.split('\n')
+        for line in section_lines:
+            if line.startswith('interface'):
+                intf = line.split()[-1]
+                pritn(intf)
+            elif line.startswith(' ip address'):
+                ip = line.split()[-2]
+                print(ip)
